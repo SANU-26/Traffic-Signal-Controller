@@ -36,8 +36,7 @@ Results
 
 The design was functionally verified through RTL simulation. Synthesis and implementation results are included in the repository.
 
-Presented By
-
+By
 SARANYA S
 
 Electronics and Communication Engineering
